@@ -32,7 +32,7 @@ then
   echo "${ShellDir} 目录不存在，开始克隆..."
   echo
   cd ${RootDir}
-  git clone https://github.com/EvineDeng/jd-base shell
+  git clone https://github.com/lxk0301/jd-base shell
   echo
 else
   echo "${ShellDir} 目录已存在，跳过克隆..."
